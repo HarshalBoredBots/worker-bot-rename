@@ -1,6 +1,7 @@
 # ── Telegram ──────────────────────────────────────────────────────────────────
 pyrogram==2.0.106
 TgCrypto              # C-based crypto — required by Pyrogram for speed
+FFmpeg-python
 
 # ── Database ──────────────────────────────────────────────────────────────────
 motor                 # Async MongoDB driver (for statistics writes only)
